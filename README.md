@@ -16,4 +16,20 @@ Requirements
 Windows OS
 Visual Studio (with Visual Basic support enabled)
 
+🛠 Technologies Used
+Visual Basic – Core programming language.
+
+Windows Forms – UI framework for the application interface.
+
+📚 Learning Outcomes
+This project demonstrates:
+Event-driven programming in Visual Basic.
+Conditional statements for decision-making.
+Creating user-friendly form-based applications.
+
+📄 License
+This project is licensed under the MIT License – you are free to use, modify, and share it.
+
+
+
 
